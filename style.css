@@ -1,0 +1,48 @@
+.header{
+    background-image: url(./ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    height:770px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.img-logo{
+    width: 70px;
+   
+
+}
+a{
+    text-decoration: none;
+    
+}
+.col-auto{
+    text-decoration: none;
+    color: white;
+     
+
+}
+.text-reset{
+    text-decoration: none;
+}
+
+.card-img-top{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.bg-footer{
+    background-color: #006d65;
+  
+}
+.a-reset{
+    color: white;
+    text-decoration: none;
+    font-family: ;
+}
+
+
+
+   
+
